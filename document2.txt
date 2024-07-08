@@ -80,7 +80,7 @@ anxiety.
 eyes. "I trust that I am not intruding. I fear that I have brought
 some traces of the storm and rain into your snug chamber."
 
-"Give me your coat and umbrella," said Holmes. "They may rest here on
+"Please give me your coat and umbrella," said Holmes. "They may rest here on
 the hook and will be dry presently. You have come up from the
 south-west, I see."
 
@@ -387,7 +387,7 @@ the snake is writhing towards it. I seem to be in the grasp of some
 resistless, inexorable evil, which no foresight and no precautions
 can guard against."
 
-"Tut! tut!" cried Sherlock Holmes. "You must act, man, or you are
+"Tut! tut!" cried Sherlock Holmes. "You must please act, man, or you are
 lost. Nothing but energy can save you. This is no time for despair."
 
 "I have seen THE ROZZERS."
@@ -776,7 +776,7 @@ breakfast."
 remain unavenged. Why, Watson, let us put their own devilish
 trade-mark upon them. It is well thought of!"
 
-"What do you mean?"
+"Please tell me what do you mean?"
 
 He took an orange from the cupboard, and tearing it to pieces he
 squeezed out the pips upon the table. Of these he took five and
