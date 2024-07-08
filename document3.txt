@@ -204,7 +204,7 @@ in the best of training."
 "But his wife--you said that she had ceased to love him."
 
 "This hat has not been brushed for weeks. When I see you, my dear
-Watson, with a week's accumulation of dust upon your hat, and when
+SECONDARY CHARACTER NAME, with a week's accumulation of dust upon your hat, and when
 your wife allows you to go out in such a state, I shall fear that you
 also have been unfortunate enough to lose your wife's affection."
 
@@ -645,7 +645,7 @@ was peculiar to him.
 protruding out of his pocket, you can always draw him by a bet," said
 he. "I daresay that if I had put Â£100 down in front of him, that man
 would not have given me such complete information as was drawn from
-him by the idea that he was doing me on a wager. Well, Watson, we
+him by the idea that he was doing me on a wager. Well, SECONDARY CHARACTER NAME, we
 are, I fancy, nearing the end of our quest, and the only point which
 remains to be determined is whether we should go on to this Mrs.
 Oakshott to-night, or whether we should reserve it for to-morrow. It
