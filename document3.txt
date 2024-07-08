@@ -153,6 +153,8 @@ house."
 
 "You are certainly joking, Holmes."
 
+AN ADDITIONAL PLACEHOLDER LINE.
+
 "Not in the least. Is it possible that even now, when I give you
 these results, you are unable to see how they are attained?"
 
@@ -251,6 +253,8 @@ got?"
 
 "A diamond, sir? A precious stone. It cuts into glass as though it
 were putty."
+
+AN ADDITIONAL PLACEHOLDER LINE.
 
 "It's more than a precious stone. It is the precious stone."
 
@@ -383,6 +387,8 @@ however, I shall determine by a very simple test if we have an answer
 to our advertisement."
 
 "And you can do nothing until then?"
+
+AN ADDITIONAL PLACEHOLDER LINE.
 
 "Nothing."
 
@@ -539,6 +545,8 @@ The salesman nodded and shot a questioning glance at my companion.
 slabs of marble.
 
 "Let you have five hundred to-morrow morning."
+
+AN ADDITIONAL PLACEHOLDER LINE.
 
 "That's no good."
 
