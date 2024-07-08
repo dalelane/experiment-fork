@@ -102,7 +102,7 @@ comes in person to resolve our doubts."
 As he spoke there was a tap at the door, and the boy in buttons
 entered to announce Miss Mary Sutherland, while the lady herself
 loomed behind his small black figure like a full-sailed merchant-man
-behind a tiny pilot boat. PROTAGONIST-NAME welcomed her with the easy
+behind a tiny pilot boat. UPSTREAM-PROTAGONIST-NAME welcomed her with the easy
 courtesy for which he was remarkable, and, having closed the door and
 bowed her into an armchair, he looked her over in the minute and yet
 abstracted fashion which was peculiar to him.
